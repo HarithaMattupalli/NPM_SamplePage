@@ -1,0 +1,46 @@
+  .npm-bg {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .npm-bg-hero {
+    background-image: url(assets/b1.png);
+  }
+
+  .npm-bg-love-oss {
+    background-image: url(assets/background.png);
+  }
+
+  .npm-shadow-big {
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+  }
+
+  .npm-btn-red {
+    background: #c12127;
+    border-bottom: solid 5px #fa8717;
+  }
+
+  .npm-btn-pink {
+    background: #e81aa8;
+    border-bottom: solid 5px #b30ad2;
+  }
+
+  .npm-content {
+    font-family: 'Arimo', sans-serif;
+  }
+
+  .npm-content h1,
+  .npm-content h2,
+  .npm-content h3,
+  .npm-content h4,
+  .npm-content h5,
+  .npm-content h6
+  {
+    font-family: Poppins,sans-serif;
+    font-weight: 600;
+  }
+
+  .npm-title {
+    font-family: Poppins,sans-serif;
+  }
